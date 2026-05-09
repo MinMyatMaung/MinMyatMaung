@@ -30,7 +30,4 @@ Hi, I'm Min Myat Maung (Ricky) 👋<br>I’m a Computer Science student who love
 - Full-stack frameworks  
 - Backend APIs
 
-## 💼 Looking for:
-- Internship or junior developer opportunities
-
 
