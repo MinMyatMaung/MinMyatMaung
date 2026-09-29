@@ -1,33 +1,105 @@
-# 📝 About Me:
-Hi, I'm Min Myat Maung (Ricky) 👋<br>I’m a Computer Science student who loves building web and mobile apps.<br>I’m interested in full-stack development and user-focused design.<br>Currently learning React Native and deepening my knowledge of full-stack frameworks.
+# 📄 About Me
 
+Hi, I'm Min Myat Maung (Ricky) 👋
 
-## 🌐 Socials:
-💼 LinkedIn: https://www.linkedin.com/in/min-myat-maung/
-<br>
-🌐 Portfolio: https://minmyatmaung.github.io/my-portfolio-v2/
-<br>
+I'm a Computer Science student focused on cybersecurity, IT infrastructure, and security operations.
+
+I hold the CompTIA Security+ certification and am building hands-on experience through cybersecurity labs and TryHackMe.
+
+I also have experience in full-stack development, giving me a strong understanding of both application development and security.
+
+## 🌐 Socials
+
+💼 LinkedIn: https://www.linkedin.com/in/min-myat-maung/  
+🌐 Portfolio: https://minmyatmaung.github.io/my-portfolio-v2/  
 📧 Email: rickyminmyatmaung@gmail.com
 
+## 🎓 Certifications & Training
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- 🛡️ CompTIA Security+
+- 🔐 TryHackMe — Hands-on cybersecurity labs
 
-## 🚀 Projects:
-- 🐾 PetMatch (A Pet Adoption Website) – MongoDB, Express.js, React, Node.js
-  - A full-stack web application that allows users to browse adoptable pets and manage listings with authentication and a database backend.
-- 🎬 Movie Review Web App - TMDB, MongoDB
-  - A web app that uses the TMDB API to display movie information and allows users to store and manage movie reviews.
-- 💬 Firebase Chat App - React, Firestore, Google Auth
-  - A real-time chat application with Google authentication and cloud database support using Firebase services.
-- 🤖 Telegram Horoscope Bot - Python, Telebot API
-  - A Python-based Telegram bot that sends daily horoscope messages to users using the Telebot API.
-- 🌐 Portfolio Website – HTML, CSS, JavaScript
-  - A personal website showcasing my projects and skills, built with HTML, CSS, and JavaScript.
+# 🛡️ Cybersecurity & IT
 
-## 📚 Currently Learning:
-- React Native  
-- Full-stack frameworks  
-- Backend APIs
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2025-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-AD%20DS-blue)
+![Linux](https://img.shields.io/badge/Linux-Security-black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Pentesting-blue)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-blue)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-blue)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-orange)
 
+- SIEM monitoring and alert investigation
+- Windows Event Log analysis
+- Active Directory administration
+- Network traffic analysis
+- Malware static and dynamic analysis
+- Vulnerability scanning
+- Windows and Linux administration
 
+### 🛡️ Wazuh SIEM Home Lab
+Built a small SOC-style environment using Wazuh to monitor Windows endpoints and Active Directory.
+
+- Deployed Wazuh agents to Windows Server 2025 and Windows 11
+- Configured Active Directory Domain Services
+- Simulated security events
+- Investigated authentication and Windows security alerts
+- Documented detection and investigation scenarios
+
+### 🦠 Malware Analysis Lab
+Created an isolated malware-analysis environment using Windows and REMnux.
+
+- Performed static and dynamic malware analysis
+- Analyzed PE files and file metadata
+- Monitored processes, registry activity, and network traffic
+- Used Wireshark, Process Hacker/System Informer, PE analysis tools, and VirusTotal
+- Investigated malware behavior and indicators of compromise
+
+# 💻 Software Engineering
+
+## Languages
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Frameworks & Technologies
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+## Software Projects
+
+- 🖥️ **PC Build Generator** - JavaScript, HTML, CSS, Node.js
+  - Full-stack PC build generator that helps users create compatible PC builds based on their needs and preferences.
+
+- 🐾 **PetMatch** — MongoDB, Express.js, React, Node.js
+  - Full-stack pet adoption application with authentication and database-backed listings.
+
+- 🎬 **Movie Review Web App** — TMDB API, MongoDB
+  - Web application that displays movie information and allows users to manage reviews.
+
+- 🌐 **Portfolio Website** — HTML, CSS, JavaScript
+  - Personal portfolio showcasing projects and technical skills.
+
+  # 📚 Currently Learning
+
+- SOC Operations
+- SIEM Detection & Investigation
+- Malware Analysis
+- Active Directory Security
+- Network Security
+- Incident Response
